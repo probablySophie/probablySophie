@@ -1,6 +1,27 @@
 ## Hi there 👋
 
-<!--
+I'm about:  
+Lightweight, sustainable, and open-source tech  
+Permaculture & environmentalism
+
+Trying to be one node in the distributed web of people creating an accessible, free, and friendly internet.  For humans.  By humans.
+
+We can only try and be better today than we were yesterday.
+
+<!-- TODO: Dumb little obsidian, helix, and other blinkies!!!
+LibreOffice?
+
+[![name](link to image on GH)](link to your URL)
+or newer:
+[<img src="path/to/image.png">](https://link-to-your-URL/)
+
+	Lightweight, sustainable, and open-source tech
+	Permaculture & environmentalism
+
+	We can only try and be better today than we were yesterday.
+
+	Trying to be one cog in the distributed web of people creating an accessable, free, and friendly  internet.  For humans.  By humans.
+	
 **probablySophie/probablySophie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
