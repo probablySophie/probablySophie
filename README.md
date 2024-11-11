@@ -11,7 +11,7 @@ We can only try and be better today than we were yesterday.
 
 ### Tools I use
 
-[<img src="banners/Helix.gif">](https://github.com/helix-editor/helix/) [<img src="banners/Obsidian.png">](https://obsidian.md/) [<img src="banners/Libreoffice.gif">](https://libreoffice.org) [<img src="banners/Thunderbird.gif">](https://thunderbird.net)
+[<img src="banners/Helix.gif" title="Helix Editor">](https://github.com/helix-editor/helix/) [<img src="banners/Obsidian.png" title="Obsidian">](https://obsidian.md/) [<img src="banners/Libreoffice.gif" title="Libreoffice">](https://libreoffice.org) [<img src="banners/Thunderbird.gif" title="Thunderbird">](https://thunderbird.net)
 
 <!-- TODO: More blinkies?!
 -->
