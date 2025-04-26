@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<!-- https://github.com/probablySophie -->
+
 I'm about:  
 ★ Lightweight, sustainable, and open-source tech  
 ★ Permaculture & environmentalism
@@ -14,4 +16,9 @@ We can only try and be better today than we were yesterday.
 [<img src="banners/Helix.gif" title="Helix Editor">](https://github.com/helix-editor/helix/) [<img src="banners/Obsidian.png" title="Obsidian">](https://obsidian.md/) [<img src="banners/Libreoffice.gif" title="Libreoffice">](https://libreoffice.org) [<img src="banners/Thunderbird.gif" title="Thunderbird">](https://thunderbird.net)
 
 <!-- TODO: More blinkies?!
+	Preact?
+	Deno Fresh?
+	Rust?
+	TypeScript?
+	Podman?
 -->
